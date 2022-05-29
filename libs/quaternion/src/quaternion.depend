@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1616569661 source:c:\song\scripts\cpp\opengl\quaternion\src\matrices.cpp
+	<cmath>
+	<algorithm>
+	"Matrices.h"
+
+1585325934 c:\song\scripts\cpp\opengl\quaternion\src\matrices.h
+	<iostream>
+	<iomanip>
+	"Vectors.h"
+
+1593449095 c:\song\scripts\cpp\opengl\quaternion\src\vectors.h
+	<cmath>
+	<iostream>
+
+1465767887 source:c:\song\scripts\cpp\opengl\quaternion\src\animutils.cpp
+	"animUtils.h"
+
+1556209047 c:\song\scripts\cpp\opengl\quaternion\src\animutils.h
+	<cmath>
+	"Vectors.h"
+	"Quaternion.h"
+
+1623047946 source:c:\song\scripts\cpp\opengl\quaternion\src\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<iostream>
+	<sstream>
+	<string>
+	<iomanip>
+	<vector>
+	"Vectors.h"
+	"Matrices.h"
+	"Quaternion.h"
+	"animUtils.h"
+	"Timer.h"
+
+1277615148 c:\song\downloads\glutformingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1623040121 c:\song\scripts\cpp\opengl\quaternion\src\quaternion.h
+	"Vectors.h"
+	"Matrices.h"
+	<cmath>
+	<iostream>
+
+1334340188 c:\song\scripts\cpp\opengl\quaternion\src\camera.h
+	"Vectors.h"
+	"Matrices.h"
+	"animUtils.h"
+	"Quaternion.h"
+
+1355372256 source:c:\song\scripts\cpp\opengl\quaternion\src\camera.cpp
+	"Camera.h"
+	<iostream>
+	<cmath>
+
+1324661672 source:c:\song\scripts\cpp\opengl\quaternion\src\trackball.cpp
+	"Trackball.h"
+	<iostream>
+
+1327768224 c:\song\scripts\cpp\opengl\quaternion\src\trackball.h
+	"Vectors.h"
+
+1490895198 source:c:\song\scripts\cpp\opengl\quaternion\src\timer.cpp
+	"Timer.h"
+	<stdlib.h>
+
+1490895156 c:\song\scripts\cpp\opengl\quaternion\src\timer.h
+	<windows.h>
+	<sys/time.h>
+
+1426371328 c:\song\scripts\cpp\opengl\quaternion\src\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 c:\song\scripts\cpp\opengl\quaternion\src\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1477325755 source:c:\song\scripts\cpp\opengl\quaternion\src\orbitcamera.cpp
+	"OrbitCamera.h"
+	<iostream>
+	<cmath>
+
+1477324967 c:\song\scripts\cpp\opengl\quaternion\src\orbitcamera.h
+	"Vectors.h"
+	"Matrices.h"
+	"animUtils.h"
+	"Quaternion.h"
+

@@ -1,0 +1,5 @@
+.vs/
+.vscode/
+cmake_install.cmake
+imgui.ini
+debug/
