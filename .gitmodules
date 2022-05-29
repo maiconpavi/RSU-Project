@@ -1,0 +1,3 @@
+[submodule "libs/pmp-library"]
+	path = libs/pmp-library
+	url = git@github.com:pmp-library/pmp-library.git
